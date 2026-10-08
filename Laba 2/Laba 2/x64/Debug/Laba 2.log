@@ -1,0 +1,4 @@
+﻿  Laba - 2.c
+D:\Visual Studio Progect\LAB\Laba 2\Laba 2\Laba - 2.c(157,14): warning C4013: ceil: нет определения; предполагается "extern" с возвратом типа "int"
+D:\Visual Studio Progect\LAB\Laba 2\Laba 2\Laba - 2.c(163,5): warning C4098: dz: функция типа "void", возвращающая значение
+  Laba 2.vcxproj -> D:\Visual Studio Progect\LAB\Laba 2\x64\Debug\Laba 2.exe
